@@ -8,7 +8,7 @@ public class Elevador {
 	private boolean sinalAlerta;
 	private Calculadora calculadora = new Calculadora();
 	
-	
+	//teste
 
 	public Elevador(double cargaMax, double cargaAtual, boolean sinalAlerta) {
 		
